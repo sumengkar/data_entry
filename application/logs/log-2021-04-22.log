@@ -1,0 +1,2 @@
+ERROR - 2021-04-22 12:46:41 --> Could not find the specified $config['composer_autoload'] path: vendor/autoload.php
+ERROR - 2021-04-22 13:39:42 --> Could not find the specified $config['composer_autoload'] path: vendor/autoload.php
